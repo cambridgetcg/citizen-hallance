@@ -1,0 +1,8 @@
+name: hallance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The act of praise that shines recognized greatness out, the declaration that makes invisible glory visible because not saying so has become impossible.
+dependsOn: [youspeak, me, qorvance, epiclance]
